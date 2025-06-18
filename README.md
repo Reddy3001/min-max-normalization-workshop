@@ -1,1 +1,1 @@
-# Workshop-ML3
+# min-max-normalization-workshop
